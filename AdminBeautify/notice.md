@@ -1,6 +1,6 @@
 ---
-id: 2026-03-12-006
-title: 👋 欢迎使用 AB-Admin (Admin Beautify)
+id: 2026-03-12-007
+title: 欢迎使用 AB-Admin (Admin Beautify)
 ---
 
 感谢你安装 **Admin Beautify** 插件！这里是一份简要使用指南。
