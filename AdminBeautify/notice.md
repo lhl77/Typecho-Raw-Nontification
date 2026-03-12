@@ -1,6 +1,6 @@
 ---
-id: 2026-03-12-002
-title: 👋 欢迎使用 Admin Beautify
+id: 2026-03-12-004
+title: 👋 欢迎使用 AB-Admin (Admin Beautify)
 ---
 
 感谢你安装 **Admin Beautify** 插件！这里是一份简要使用指南。
@@ -8,10 +8,11 @@ title: 👋 欢迎使用 Admin Beautify
 ### ⭐ 支持作者
 
 如果插件对你有帮助，欢迎给项目点个 Star，谢谢！
-[→ 前往 GitHub 给 Admin Beautify 点 Star](https://github.com/lhl77/Typecho-Plugin-AdminBeautify)
+[→ ⭐ 前往 GitHub 给 Admin Beautify 点 Star](https://github.com/lhl77/Typecho-Plugin-AdminBeautify)
 
 也欢迎通过以下方式支持作者持续维护：
-[→ 捐助]([https://afdian.com/a/lhl77](https://pay.lhl.one/paypage/?merchant=3b8dnSzIL2EXvvz2x7WwVEsYHZ6%2BokmCo5jAUlP0klNU)
+[→ ♥️ 捐助]([https://afdian.com/a/lhl77](https://pay.lhl.one/paypage/?merchant=3b8dnSzIL2EXvvz2x7WwVEsYHZ6%2BokmCo5jAUlP0klNU)
+捐助用户会定期在**插件设置**-**关于插件**中展示，感谢支持！
 
 ### 🛠 常见问题
 
@@ -21,7 +22,10 @@ title: 👋 欢迎使用 Admin Beautify
 **部分插件页面排版异常？** 
 请在**插件设置**-**兼容脚本管理**中打开对应插件的兼容脚本，如果没有请[发issue](https://github.com/lhl77/Typecho-Plugin-AdminBeautify/issues)
 
-### 📋 更新日志 & 反馈
+**如果您有任何建议，请发issue、加群、或博客留言：**
+⭐ [GitHub Issues — 提交 Bug 或功能建议](https://github.com/lhl77/Typecho-Plugin-AdminBeautify/issues)
 
-[GitHub Releases — 版本更新记录](https://github.com/lhl77/Typecho-Plugin-AdminBeautify/releases)
-[GitHub Issues — 提交 Bug 或功能建议](https://github.com/lhl77/Typecho-Plugin-AdminBeautify/issues)
+👤 **群组**
+Telegram 群组: [@tsutsu_group](https://t.me/+S_rnDEUlSPPRzvW_)
+QQ 群组: [182363579](https://qm.qq.com/q/OOzG20idi2)
+
