@@ -1,5 +1,5 @@
 ---
-id: 2026-03-12-008
+id: 2026-03-12-009
 title: 欢迎使用 AB-Admin (Admin Beautify)
 ---
 
@@ -11,7 +11,7 @@ title: 欢迎使用 AB-Admin (Admin Beautify)
 [→ ⭐ 前往 GitHub 给 Admin Beautify 点 Star](https://github.com/lhl77/Typecho-Plugin-AdminBeautify)
 
 也欢迎通过以下方式支持作者持续维护：
-[→ ♥️ 捐助]([https://afdian.com/a/lhl77](https://pay.lhl.one/paypage/?merchant=3b8dnSzIL2EXvvz2x7WwVEsYHZ6%2BokmCo5jAUlP0klNU)
+[→ ♥️ 捐助](https://pay.lhl.one/paypage/?merchant=3b8dnSzIL2EXvvz2x7WwVEsYHZ6%2BokmCo5jAUlP0klNU)
 捐助用户会定期在**插件设置**-**关于插件**中展示，感谢支持！
 
 ### 🛠 常见问题
