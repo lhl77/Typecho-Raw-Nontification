@@ -1,5 +1,5 @@
 ---
-id: 2026-03-12-010
+id: 2026-03-19-001
 title: 欢迎使用 AB-Admin (Admin Beautify)
 ---
 
