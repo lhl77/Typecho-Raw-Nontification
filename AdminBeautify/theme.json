@@ -15,7 +15,7 @@
             "homepage": "https://imakashi.com/blog/archives/themeRomanticism.html",
             "download": "https://github.com/akashiwest/Romanticism/releases/download/2.2/Romanticism2.2.link.php.update.zip",
             "data": {
-                "适配 Typecho 版本": "1.1+ (1.3未测试)",
+                "适配 Typecho 版本": "1.1.x, 1.2.x, 1.3.x",
                 "备注": "当前并不支持安装于 sqlite 数据库的 typecho",
                 "开源 License": "GPL-3.0"
             }
@@ -35,7 +35,7 @@
             "homepage": "https://78.al/index.php/post/107.html",
             "download": "https://github.com/HaoOuBa/Joe/archive/refs/heads/master.zip",
             "data": {
-                "适配 Typecho 版本": "1.1+ (暂不支持1.3.0)",
+                "适配 Typecho 版本": "1.1.x, 1.2.x, 1.3.x",
                 "PHP 版本": "5.4-7.4",
                 "开源 License": "GPL-3.0"
             }
@@ -60,7 +60,7 @@
             "homepage": "https://www.linpx.com/p/pinghsu-a-typecho-theme.html",
             "download": "https://github.com/chakhsu/pinghsu/archive/refs/tags/v1.6.2.zip",
             "data": {
-                "适配 Typecho 版本": "1.1+ (暂不支持1.3.0)",
+                "适配 Typecho 版本": "1.1.x, 1.2.x, 1.3.x",
                 "开源 License": "MIT"
             }
         },
@@ -78,7 +78,7 @@
             "homepage": "https://memo.cm/oneblog",
             "download": "https://github.com/cnxcdn/OneBlog/archive/refs/heads/lite.zip",
             "data": {
-                "适配 Typecho 版本": "1.1+ (1.3.0 适配)",
+                "适配 Typecho 版本": "1.1.x, 1.2.x, 1.3.x)",
                 "开源 License": "GPL-2.0"
             }
         },
@@ -98,7 +98,7 @@
             "homepage": "https://zhebk.cn/code/mango.html",
             "download": "https://github.com/lhl77/Typecho-Plugin-AdminBeautifyStore/releases/download/themes/Mango_v1.0_dev.zip",
             "data": {
-                "适配 Typecho 版本": "1.2/1.3",
+                "适配 Typecho 版本": "1.2.x, 1.3.x",
                 "备注": "严禁商用"
             }
         },
@@ -116,7 +116,7 @@
             "homepage": "https://mukapp.top/archives/213/",
             "download": "https://github.com/MUKAPP/InitialX/releases/download/v1.0.2/InitialX-v1.0.2.zip",
             "data": {
-                "适配 Typecho 版本": "1.3.0+"
+                "适配 Typecho 版本": "1.2.x, 1.3.x"
             }
         },
         {
@@ -134,7 +134,7 @@
             "homepage": "https://blog.haoi.net/archives/typecho-butterfly.html#",
             "download": "https://github.com/wehaox/Typecho-Butterfly/releases/download/1.8.1/butterfly_Release1.8.1.zip",
             "data": {
-                "适配 Typecho 版本": "1.2.0+ (1.3.0暂不支持)",
+                "适配 Typecho 版本": "1.2.x, 1.3.x)",
                 "PHP": "7.4+"
             }
         },
@@ -152,7 +152,7 @@
             "homepage": "https://github.com/Ouxxxxxjoe/Printer-Typecho",
             "download": "https://github.com/Ouxxxxxjoe/Printer-Typecho/releases/download/1.3/Printer.zip",
             "data": {
-                "适配 Typecho 版本": "1.3.0+",
+                "适配 Typecho 版本": "1.2.x 1.3.x",
                 "PHP": "7.4+"
             }
         },
@@ -173,7 +173,7 @@
             "description": "(付费) Mirages - 简洁的自适应主题",
             "homepage": "https://get233.com/archives/mirages-intro.html",
             "data": {
-                "适配 Typecho 版本": "1.1+ (支持1.3.0)",
+                "适配 Typecho 版本": "1.1.x, 1.2.x, 1.3.x",
                 "PHP 版本": "PHP7.0+ (8.3支持)"
             }
         },
@@ -196,7 +196,7 @@
             "description": "(付费) 写作和阅读，记录与回顾，简单与强大。",
             "homepage": "https://www.ihewro.com/archives/489",
             "data": {
-                "适配 Typecho 版本": "1.2+ (1.3.0不支持)"
+                "适配 Typecho 版本": "1.1.x, 1.2.x  (1.3.x 未测试)"
             }
         },
         {
@@ -215,7 +215,7 @@
             "description": "(付费) \nsinner主题采用tailwindcss前端框架，不兼容任何版本IE内核的浏览器（推荐使用现代浏览器比如Chrome，Firefox，Edge 和 Safari），网站首页支持自定义布局，文章支持多种文章类型（文章，链接，软件，相册），可用来做简单的导航站，软件下载站，图片壁纸分享站，也可以发布文章，当然也可以多建立几个分类，做综合站。\nsinner主题还支持多端自适应，封面图懒加载，评论无刷新，点赞，分享，代码高亮，夜间模式等功能，以及超强的短代码功能。",
             "homepage": "https://www.yuque.com/qqdie/sinner",
             "data": {
-                "适配 Typecho 版本": "1.2.0+ （支持1.3.0）",
+                "适配 Typecho 版本": "1.2.x, 1.3.x",
                 "PHP": "7.2～8.2"
             }
         },
@@ -237,7 +237,7 @@
             "description": "(付费) \n当您目光所及，这款素雅而又别致的主题正静静地展现在您的眼前。它宛如一位身着灰色长裙的古典女子，用细腻的灰度色调为平淡的页面增添了几分内敛与沉静。精心设计的三栏布局，犹如一场文字与视觉的舞蹈，让每一个字句都在页面上轻盈地跃动，展现着它们独特的韵律。\n　　全站PJAX与平滑滚动的完美结合，仿佛将您带入了一个丝滑如融化巧克力的梦幻世界。每一个滚动，每一个点击，都仿佛与主题产生了奇妙的共鸣，让您感受到前所未有的流畅与顺滑。右侧的音乐播放器，就像是一位贴心的朋友，在您需要的时候为您奏响轻松的旋律，让您的站点也充满了生活的气息。重新独立设计的设置页面，独立存储的自定义字段，保证了后台设置数据不再丢失，简洁规整的标签、精心设计的友情链接页、细致入微的时间线归档文章以及精准的Mathjax数学公式渲染，都在默默地诉说着这款主题的精致与匠心。它们犹如一颗颗璀璨的明珠，点缀在主题的每一个角落。这一切都在等待着您的到来……",
             "homepage": "https://blog.zwying.com/archives/134.html",
             "data": {
-                "适配 Typecho 版本": "1.2.0+ （不支持1.3.0）",
+                "适配 Typecho 版本": "1.2.x (1.3.x 未测试)",
                 "PHP": "7.4+"
             }
         },
@@ -263,7 +263,7 @@
             "description": "(付费) Cuteen是一款至臻至美的Typecho系列主题🍒，经过一年多时间的沉淀与积累，Cuteen5.x正式更新发布，从疫情期间的第一个大版本，到现在的第五个大版本，期间累计迭代60+次，累计用户突破800+🙌，每一位用户对主题都充满着极高的评价，无微不至的售后服务、细节处的优化打磨、丰富的短代码功能、超强的后台编辑器……💕无处不点点滴滴的透露出这款主题的极佳品质。在5.x系列中，在吸收到多位用户的反馈后，我们再次对主题进行了重构，移除了卡片样式，专心做好单栏，优化无数细节，新增了更多丰富的功能，包括新的编辑器，新的短代码，能够给您带来不同于原生的体验🍖。感谢各位用户的支持与建议，相信Cuteen的未来会更加完美，回归初心专心做好一款样式，书写出最极致的色彩。🎉不忘初心，方得始终",
             "homepage": "https://blog.zwying.com/archives/76.html",
             "data": {
-                "适配 Typecho 版本": "1.2.0+ （不支持1.3.0）",
+                "适配 Typecho 版本": "1.2.x (1.3.x 未测试)",
                 "PHP": "7.4+"
             }
         }
