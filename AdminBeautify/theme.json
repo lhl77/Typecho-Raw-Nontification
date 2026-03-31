@@ -103,6 +103,23 @@
             }
         },
         {
+            "id": "InitialX",
+            "name": "InitialX",
+            "author": "MUK",
+            "version": "1.0.2",
+            "cover": "https://i.see.you/2026/03/31/b3Sm/1285b6cbd223a3570a70b663e66ee0d7.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/4mzZ/5006992a2904c4852bb690f0bfc48b23.jpg"
+            ],
+            "description": "(开源) 一款简洁的 Typecho 主题,InitialX 是基于 Initial 主题按照自己的喜好二次开发的 Typecho 主题。",
+            "github": "https://github.com/MUKAPP/InitialX",
+            "homepage": "https://mukapp.top/archives/213/",
+            "download": "https://github.com/MUKAPP/InitialX/releases/download/v1.0.2/InitialX-v1.0.2.zip",
+            "data": {
+                "适配 Typecho 版本": "1.3.0+"
+            }
+        },
+        {
             "id": "Mirages",
             "name": "Mirages",
             "author": "Hran",
