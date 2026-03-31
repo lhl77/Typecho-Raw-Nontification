@@ -10,7 +10,7 @@
             "images": [
                 "https://i.see.you/2026/03/31/J1ot/94069a773d136da7dbd48b85eb104c13.jpg"
             ],
-            "description": "在明石的简洁设计中捕捉来自日常生活中的浪漫主义。",
+            "description": "(开源) 在明石的简洁设计中捕捉来自日常生活中的浪漫主义。",
             "github": "https://github.com/akashiwest/Romanticism",
             "homepage": "https://imakashi.com/blog/archives/themeRomanticism.html",
             "download": "https://github.com/akashiwest/Romanticism/releases/download/2.2/Romanticism2.2.link.php.update.zip",
@@ -31,10 +31,10 @@
             "images": [
                 "https://i.see.you/2026/03/31/6pYr/a9052ae2f86089ef86440776cd2bb14f.jpg",
                 "https://i.see.you/2026/03/31/Ny9c/54be0a47a8d24488d4dabf74ce3563a1.jpg",
-                "https://i.see.you/2026/03/31/o8rX/0cbbee18724ba966a1060d34ecfba529.jpgvalue",
-                "https://i.see.you/2026/03/31/vh1L/af477277fc66b8d0544d1a706c3b026c.jpgvalue"
+                "https://i.see.you/2026/03/31/o8rX/0cbbee18724ba966a1060d34ecfba529.jpg",
+                "https://i.see.you/2026/03/31/vh1L/af477277fc66b8d0544d1a706c3b026c.jpg"
             ],
-            "description": "Mirages - 简洁的自适应主题",
+            "description": "(付费) Mirages - 简洁的自适应主题",
             "homepage": "https://get233.com/archives/mirages-intro.html",
             "data": {
                 "适配 Typecho 版本": "1.1+ (1.3.0支持)",
