@@ -139,6 +139,24 @@
             }
         },
         {
+            "id": "Printer",
+            "name": "Printer",
+            "author": "zhinan",
+            "version": 1.3,
+            "cover": "https://i.see.you/2026/03/31/3yjW/decf541491793aa2bb988512d0e032b7.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/3yjW/decf541491793aa2bb988512d0e032b7.jpg"
+            ],
+            "description": "(开源) 一款仿打印纸 / 复古设备面板风格的 Typecho 主题，复刻 Nooc 佬原创的主题 https://nooc.me 移植到 Typecho 中，支持黑暗模式、接入了中文网字计划 ，主题只需要设置字体样式result.css 即可展现不一样的文字效果。",
+            "github": "https://github.com/Ouxxxxxjoe/Printer-Typecho",
+            "homepage": "https://github.com/Ouxxxxxjoe/Printer-Typecho",
+            "download": "https://github.com/Ouxxxxxjoe/Printer-Typecho/releases/download/1.3/Printer.zip",
+            "data": {
+                "适配 Typecho 版本": "1.3.0+",
+                "PHP": "7.4+"
+            }
+        },
+        {
             "id": "Mirages",
             "name": "Mirages",
             "author": "Hran",
