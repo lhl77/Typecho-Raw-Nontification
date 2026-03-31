@@ -3,22 +3,42 @@
     "themes": [
         {
             "id": "Romanticism",
-            "name": "Romanticism(浪漫主义)",
+            "name": "Romanticism (浪漫主义)",
             "author": "明石",
             "version": 2.2,
             "cover": "https://i.see.you/2026/03/31/4cfX/ae727bb7c7a1b25b55a6998055c9a099.jpg",
             "images": [
-                "https://i.see.you/2026/03/28/9Jdq/9b3028ef0009824db65eafa8acdd30a6.jpg",
-                "https://i.see.you/2026/03/27/E2lh/ebd3eb242c6ff3b06c288a5853b0bf6c.jpg"
+                "https://i.see.you/2026/03/31/J1ot/94069a773d136da7dbd48b85eb104c13.jpg"
             ],
             "description": "在明石的简洁设计中捕捉来自日常生活中的浪漫主义。",
             "github": "https://github.com/akashiwest/Romanticism",
             "homepage": "https://imakashi.com/blog/archives/themeRomanticism.html",
             "download": "https://github.com/akashiwest/Romanticism/releases/download/2.2/Romanticism2.2.link.php.update.zip",
             "data": {
-                "License": "GPL-3.0",
                 "适配 Typecho 版本": "1.1+ (1.3未测试)",
-                "备注": "当前并不支持安装于 sqlite 数据库的 typecho"
+                "备注": "当前并不支持安装于 sqlite 数据库的 typecho",
+                "开源 License": "GPL-3.0"
+            }
+        },
+        {
+            "id": "Mirages",
+            "name": "Mirages",
+            "author": "Hran",
+            "version": "7.11.0",
+            "buyUrl": "https://store.get233.com/",
+            "price": 88,
+            "cover": "https://i.see.you/2026/03/31/tKp7/5378664be835612d4427dbbc8d28b558.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/6pYr/a9052ae2f86089ef86440776cd2bb14f.jpg",
+                "https://i.see.you/2026/03/31/Ny9c/54be0a47a8d24488d4dabf74ce3563a1.jpg",
+                "https://i.see.you/2026/03/31/o8rX/0cbbee18724ba966a1060d34ecfba529.jpgvalue",
+                "https://i.see.you/2026/03/31/vh1L/af477277fc66b8d0544d1a706c3b026c.jpgvalue"
+            ],
+            "description": "Mirages - 简洁的自适应主题",
+            "homepage": "https://get233.com/archives/mirages-intro.html",
+            "data": {
+                "适配 Typecho 版本": "1.1+ (1.3.0支持)",
+                "PHP 版本": "PHP7.0+ (8.3支持)"
             }
         }
     ]
