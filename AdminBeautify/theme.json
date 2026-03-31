@@ -21,6 +21,26 @@
             }
         },
         {
+            "id": "Joe",
+            "name": "Joe",
+            "author": "HaoOuBa (Joe)",
+            "version": "Latest",
+            "cover": "https://i.see.you/2026/03/31/q2iY/72349de98770b2beedd862ebb5dfa17c.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/q2iY/72349de98770b2beedd862ebb5dfa17c.jpg",
+                "https://i.see.you/2026/03/31/Zkr0/cdfa5b916a76d73b1f724d73bf82d8ea.jpg"
+            ],
+            "description": "(开源) 一款基于 Typecho 博客的双栏极致优化主题",
+            "github": "https://github.com/HaoOuBa/Joe",
+            "homepage": "https://78.al/index.php/post/107.html",
+            "download": "https://github.com/HaoOuBa/Joe/archive/refs/heads/master.zip",
+            "data": {
+                "适配 Typecho 版本": "1.1+ (暂不支持1.3.0)",
+                "PHP 版本": "5.4-7.4",
+                "开源 License": "GPL-3.0"
+            }
+        },
+        {
             "id": "Mirages",
             "name": "Mirages",
             "author": "Hran",
@@ -39,6 +59,28 @@
             "data": {
                 "适配 Typecho 版本": "1.1+ (1.3.0支持)",
                 "PHP 版本": "PHP7.0+ (8.3支持)"
+            }
+        },
+        {
+            "id": "Handsome",
+            "name": "Handsome",
+            "author": "友人C",
+            "version": "10.1.0",
+            "buyUrl": "https://www.ihewro.com/archives/489",
+            "price": 88,
+            "cover": "https://i.see.you/2026/03/31/N2dx/4db051ce0b2b9177b4f05fc02799f5bf.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/ik0I/c99970e5f235b25dcc39ee1b7b9b1bbc.jpg",
+                "https://i.see.you/2026/03/31/hEn9/675a6b2588a63b0a0d3eff0119c47e53.jpg",
+                "https://i.see.you/2026/03/31/6Rns/791df1836943ed2f84edcc4356c59e84.jpg",
+                "https://i.see.you/2026/03/31/s3rL/42c50956cf344312c00057374e0b7288.jpg",
+                "https://i.see.you/2026/03/31/gCn8/d7394a57ee7139372e9a442c1aa3363d.jpg",
+                "https://i.see.you/2026/03/31/4qOk/71e8d8ed31c74df0ffb58b9f99a06ec8.jpg"
+            ],
+            "description": "写作和阅读，记录与回顾，简单与强大。",
+            "homepage": "https://www.ihewro.com/archives/489",
+            "data": {
+                "适配 Typecho 版本": "1.2+ (1.3.0适配中)"
             }
         }
     ]
