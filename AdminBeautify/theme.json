@@ -120,6 +120,25 @@
             }
         },
         {
+            "id": "butterfly",
+            "name": "Butterfly",
+            "author": "wehao",
+            "version": "1.8.1",
+            "cover": "https://i.see.you/2026/03/31/jD7z/b44071252eb6db776d1675e84d547110.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/8bLe/dfef3deba47d75d2c17ad87b84f8cdc3.jpg",
+                "https://i.see.you/2026/03/31/vZ8l/be468d6684f5a7c849f8b83683ae84ef.jpg"
+            ],
+            "description": "(开源) 这是 Typecho 版本的 butterfly 主题\n主题好看，但是由于经常换设备并且hexo操作还是不方便，某些功能受限于第三方\n所以就移植了",
+            "github": "https://github.com/wehaox/Typecho-Butterfly",
+            "homepage": "https://blog.haoi.net/archives/typecho-butterfly.html#",
+            "download": "https://github.com/wehaox/Typecho-Butterfly/releases/download/1.8.1/butterfly_Release1.8.1.zip",
+            "data": {
+                "适配 Typecho 版本": "1.2.0+ (1.3.0暂不支持)",
+                "PHP": "7.4+"
+            }
+        },
+        {
             "id": "Mirages",
             "name": "Mirages",
             "author": "Hran",
@@ -136,7 +155,7 @@
             "description": "(付费) Mirages - 简洁的自适应主题",
             "homepage": "https://get233.com/archives/mirages-intro.html",
             "data": {
-                "适配 Typecho 版本": "1.1+ (1.3.0支持)",
+                "适配 Typecho 版本": "1.1+ (支持1.3.0)",
                 "PHP 版本": "PHP7.0+ (8.3支持)"
             }
         },
@@ -159,7 +178,7 @@
             "description": "(付费) 写作和阅读，记录与回顾，简单与强大。",
             "homepage": "https://www.ihewro.com/archives/489",
             "data": {
-                "适配 Typecho 版本": "1.2+ (1.3.0适配中)"
+                "适配 Typecho 版本": "1.2+ (1.3.0不支持)"
             }
         },
         {
@@ -175,11 +194,59 @@
                 "https://i.see.you/2026/03/31/8tGq/41593296078a02b2a048266422b005c2.jpg",
                 "https://i.see.you/2026/03/31/uq5K/5b893684800079117b32d458bb71c1c1.jpg"
             ],
-            "description": "(付费) \nsinner主题采用tailwindcss前端框架，不兼容任何版本IE内核的浏览器（推荐使用现代浏览器比如Chrome，Firefox，Edge 和 Safari），网站首页支持自定义布局，文章支持多种文章类型（文章，链接，软件，相册），可用来做简单的导航站，软件下载站，图片壁纸分享站，也可以发布文章，当然也可以多建立几个分类，做综合站。\nsinner主题还支持多端自适应，封面图懒加载，评论无刷新，点赞，分享，代码高亮，夜间模式等功能，以及超强的短代码功能。",
+            "description": "(付费) \nsinner主题采用tailwindcss前端框架，不兼容任何版本IE内核的浏览器（推荐使用现代浏览器比如Chrome，Firefox，Edge 和 Safari），网站首页支持自定义布局，文章支持多种文章类型（文章，链接，软件，相册），可用来做简单的导航站，软件下载站，图片壁纸分享站，也可以发布文章，当然也可以多建立几个分类，做综合站。\nsinner主题还支持多端自适应，封面图懒加载，评论无刷新，点赞，分享，代码高亮，夜间模式等功能，以及超强的短代码功能。",
             "homepage": "https://www.yuque.com/qqdie/sinner",
             "data": {
                 "适配 Typecho 版本": "1.2.0+ （支持1.3.0）",
                 "PHP": "7.2～8.2"
+            }
+        },
+        {
+            "id": "Furry",
+            "name": "Furry",
+            "author": "Veen Zhao",
+            "version": "1.x",
+            "buyUrl": "https://blog.zwying.com/archives/134.html",
+            "price": 68,
+            "cover": "https://i.see.you/2026/03/31/mG9c/9423e9b0e24e36d87c1f0cd99e6e7038.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/c7Gx/21b7819e0660262c082691285daf387b.jpg",
+                "https://i.see.you/2026/03/31/y6bG/f7e0cb70667da2194dc9e4a4c55bc288.jpg",
+                "https://i.see.you/2026/03/31/6snU/21793fd8f857b2fef27504ecd09875f4.jpg",
+                "https://i.see.you/2026/03/31/bK8h/de44f3fc56dd9b37753b957ed7100f77.jpg",
+                "https://i.see.you/2026/03/31/mDp1/dab96e6f7f0b5408b56524a23cd12011.jpg"
+            ],
+            "description": "(付费) \n当您目光所及，这款素雅而又别致的主题正静静地展现在您的眼前。它宛如一位身着灰色长裙的古典女子，用细腻的灰度色调为平淡的页面增添了几分内敛与沉静。精心设计的三栏布局，犹如一场文字与视觉的舞蹈，让每一个字句都在页面上轻盈地跃动，展现着它们独特的韵律。\n　　全站PJAX与平滑滚动的完美结合，仿佛将您带入了一个丝滑如融化巧克力的梦幻世界。每一个滚动，每一个点击，都仿佛与主题产生了奇妙的共鸣，让您感受到前所未有的流畅与顺滑。右侧的音乐播放器，就像是一位贴心的朋友，在您需要的时候为您奏响轻松的旋律，让您的站点也充满了生活的气息。重新独立设计的设置页面，独立存储的自定义字段，保证了后台设置数据不再丢失，简洁规整的标签、精心设计的友情链接页、细致入微的时间线归档文章以及精准的Mathjax数学公式渲染，都在默默地诉说着这款主题的精致与匠心。它们犹如一颗颗璀璨的明珠，点缀在主题的每一个角落。这一切都在等待着您的到来……",
+            "homepage": "https://blog.zwying.com/archives/134.html",
+            "data": {
+                "适配 Typecho 版本": "1.2.0+ （不支持1.3.0）",
+                "PHP": "7.4+"
+            }
+        },
+        {
+            "id": "Cuteen5.x",
+            "name": "Cuteen",
+            "author": "Veen Zhao",
+            "version": "5.x",
+            "buyUrl": "https://blog.zwying.com/archives/76.html",
+            "price": 88,
+            "cover": "https://i.see.you/2026/03/31/hj2R/64f58e28f5102bbae2e132a142aa00fc.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/yvB1/86c06f47a015c4f0fb2ef9faa982a010.jpg",
+                "https://i.see.you/2026/03/31/nCv3/fdb71afadac013be9052fb0ef4f0c7c6.jpg",
+                "https://i.see.you/2026/03/31/K1ir/f742bde005a40bc7849e08f1ab883eef.jpg",
+                "https://i.see.you/2026/03/31/nf6I/e85e3fd5d0533609477f5e39171e6625.jpg",
+                "https://i.see.you/2026/03/31/Au3k/1c797396a58747dfd59e3573616fcb35.jpg",
+                "https://i.see.you/2026/03/31/xoV0/e99aed3f91e7050247f2b474e10a8af8.jpg",
+                "https://i.see.you/2026/03/31/e5Zv/aceec54db51bbce2fe1e12aad879ba5b.jpg",
+                "https://i.see.you/2026/03/31/8kGk/0e3ec05da4282668068ae9fa625534fe.jpg",
+                "https://i.see.you/2026/03/31/q9dT/703153cf16664288d21e9aa2554b14bb.jpg"
+            ],
+            "description": "(付费) Cuteen是一款至臻至美的Typecho系列主题🍒，经过一年多时间的沉淀与积累，Cuteen5.x正式更新发布，从疫情期间的第一个大版本，到现在的第五个大版本，期间累计迭代60+次，累计用户突破800+🙌，每一位用户对主题都充满着极高的评价，无微不至的售后服务、细节处的优化打磨、丰富的短代码功能、超强的后台编辑器……💕无处不点点滴滴的透露出这款主题的极佳品质。在5.x系列中，在吸收到多位用户的反馈后，我们再次对主题进行了重构，移除了卡片样式，专心做好单栏，优化无数细节，新增了更多丰富的功能，包括新的编辑器，新的短代码，能够给您带来不同于原生的体验🍖。感谢各位用户的支持与建议，相信Cuteen的未来会更加完美，回归初心专心做好一款样式，书写出最极致的色彩。🎉不忘初心，方得始终",
+            "homepage": "https://blog.zwying.com/archives/76.html",
+            "data": {
+                "适配 Typecho 版本": "1.2.0+ （不支持1.3.0）",
+                "PHP": "7.4+"
             }
         }
     ]
