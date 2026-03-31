@@ -144,6 +144,26 @@
             "data": {
                 "适配 Typecho 版本": "1.2+ (1.3.0适配中)"
             }
+        },
+        {
+            "id": "Sinner",
+            "name": "Sinner",
+            "author": "泽泽",
+            "version": "4.0.2",
+            "buyUrl": "https://typecho.fans/archives/sinner-typecho-theme.html",
+            "price": 88,
+            "cover": "https://i.see.you/2026/03/31/5tcH/9022fbd763838c5727af5ee0f13aa60b.jpg",
+            "images": [
+                "https://i.see.you/2026/03/31/0Aeu/80b076122116eec66e70e5d25e1256c8.jpg",
+                "https://i.see.you/2026/03/31/8tGq/41593296078a02b2a048266422b005c2.jpg",
+                "https://i.see.you/2026/03/31/uq5K/5b893684800079117b32d458bb71c1c1.jpg"
+            ],
+            "description": "(付费) \nsinner主题采用tailwindcss前端框架，不兼容任何版本IE内核的浏览器（推荐使用现代浏览器比如Chrome，Firefox，Edge 和 Safari），网站首页支持自定义布局，文章支持多种文章类型（文章，链接，软件，相册），可用来做简单的导航站，软件下载站，图片壁纸分享站，也可以发布文章，当然也可以多建立几个分类，做综合站。\nsinner主题还支持多端自适应，封面图懒加载，评论无刷新，点赞，分享，代码高亮，夜间模式等功能，以及超强的短代码功能。",
+            "homepage": "https://www.yuque.com/qqdie/sinner",
+            "data": {
+                "适配 Typecho 版本": "1.2.0+ （支持1.3.0）",
+                "PHP": "7.2～8.2"
+            }
         }
     ]
 }
