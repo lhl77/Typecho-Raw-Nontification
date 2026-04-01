@@ -99,7 +99,8 @@
             "download": "https://github.com/lhl77/Typecho-Plugin-AdminBeautifyStore/releases/download/themes/Mango_v1.0_dev.zip",
             "data": {
                 "适配 Typecho 版本": "1.2.x, 1.3.x",
-                "备注": "严禁商用"
+                "备注": "严禁商用",
+                "License": "无"
             }
         },
         {
@@ -116,7 +117,8 @@
             "homepage": "https://mukapp.top/archives/213/",
             "download": "https://github.com/MUKAPP/InitialX/releases/download/v1.0.2/InitialX-v1.0.2.zip",
             "data": {
-                "适配 Typecho 版本": "1.2.x, 1.3.x"
+                "适配 Typecho 版本": "1.2.x, 1.3.x",
+                "License": "MIT"
             }
         },
         {
@@ -135,7 +137,8 @@
             "download": "https://github.com/wehaox/Typecho-Butterfly/releases/download/1.8.1/butterfly_Release1.8.1.zip",
             "data": {
                 "适配 Typecho 版本": "1.2.x, 1.3.x)",
-                "PHP": "7.4+"
+                "PHP": "7.4+",
+                "License": "Apache-2.0"
             }
         },
         {
@@ -153,7 +156,8 @@
             "download": "https://github.com/Ouxxxxxjoe/Printer-Typecho/releases/download/1.3/Printer.zip",
             "data": {
                 "适配 Typecho 版本": "1.2.x 1.3.x",
-                "PHP": "7.4+"
+                "PHP": "7.4+",
+                "License": "MIT"
             }
         },
         {
@@ -175,7 +179,80 @@
             "data": {
                 "适配 Typecho 版本": "1.2.x, 1.3.x",
                 "PHP": "未测试",
-                "备注": "主题正处于公共测试阶段，使用过程中可能会出现未经排查的问题，请在 Typecho 官方论坛主题页面（点击前往）反馈问题或提交功能建议。不建议投入生产环境使用。"
+                "备注": "主题正处于公共测试阶段，使用过程中可能会出现未经排查的问题，请在 Typecho 官方论坛主题页面（点击前往）反馈问题或提交功能建议。不建议投入生产环境使用。",
+                "License": "无"
+            }
+        },
+        {
+            "id": "ueno-typecho",
+            "name": "UENO for Typecho",
+            "author": "上野 / Linho1219",
+            "version": 0.8,
+            "cover": "https://i.see.you/2026/04/01/qX3r/460d40ef2ba48a2fc1abbc757a960625.jpg",
+            "images": [
+                "https://i.see.you/2026/04/01/qX3r/460d40ef2ba48a2fc1abbc757a960625.jpg"
+            ],
+            "description": "(开源) UENO 是 Typlog 的默认主题。本项目为 UENO 在 Typecho 上的移植版本。",
+            "github": "https://github.com/Linho1219/ueno-typecho",
+            "download": "https://github.com/lhl77/Typecho-Plugin-AdminBeautifyStore/releases/download/themes/ueno-typecho_v0.8.260401.zip",
+            "data": {
+                "适配 Typecho 版本": "1.2.x, 1.3.x",
+                "License": "无"
+            }
+        },
+        {
+            "id": "icatNew",
+            "name": "icatNew",
+            "author": "啦沐达",
+            "version": "1.0",
+            "cover": "https://i.see.you/2026/04/01/aZ5k/1ca94fa9029f6df8bcfa0308017961cb.jpg",
+            "images": [
+                "https://i.see.you/2026/04/01/eYj6/a33e9d7e5df650f6d05cf0ee0eb9a06f.jpg",
+                "https://i.see.you/2026/04/01/Bzp1/0e8efb21fc5b9ce398ca8fe60ab60ad4.jpg"
+            ],
+            "description": "(开源) 可爱的暗色巧克力模板",
+            "homepage": "https://forum.typecho.org/viewtopic.php?t=25505",
+            "download": "https://github.com/lhl77/Typecho-Plugin-AdminBeautifyStore/releases/download/themes/icatNew_v1.0.260401.zip",
+            "data": {
+                "适配 Typecho 版本": "1.2.x, 1.3.x",
+                "License": "无"
+            }
+        },
+        {
+            "id": "final",
+            "name": "Final",
+            "author": "HoytZhang",
+            "version": "1.6",
+            "cover": "https://i.see.you/2026/04/01/jN5m/98eb2d40704959859dd80f61cc0efe48.jpg",
+            "images": [
+                "https://i.see.you/2026/04/01/Tyu4/68203073eab916b4c25e1c6260309859.jpg",
+                "https://i.see.you/2026/04/01/Bmc4/ddbfccee5ab0d4204384dd4eda22239b.jpg"
+            ],
+            "description": "(开源) 或许是你的最终选择，接下来请专心写作吧。\n * Your final choice. Please focus on writing next.",
+            "github": "https://github.com/hoytzhang/typecho-theme-final",
+            "homepage": "https://www.banzhuanriji.com/posts/theme-final/",
+            "download": "https://github.com/hoytzhang/typecho-theme-final/releases/download/1.7/final.1.7.zip",
+            "data": {
+                "适配 Typecho 版本": "1.2.x, 1.3.x",
+                "License": "无"
+            }
+        },
+        {
+            "id": "PureSuck",
+            "name": "PureSuck",
+            "author": "MoXiify",
+            "version": "1.3.2",
+            "cover": "https://i.see.you/2026/04/01/bIo3/03957e4c5301be4238a4df9e971c1510.jpg",
+            "images": [
+                "https://i.see.you/2026/04/01/Gwt9/93f8c73c8f084617459d254904413faf.jpg"
+            ],
+            "description": "(开源) \nPureSuck，干净，纯洁，淡雅朴素的 Typecho 主题。\n\n\nPure 意指纯洁、干净，后者取自爱人 RuoSuck，希望这份干净的爱恋能得到你的喜欢。\n整体追求现代化，不适配较为老旧的浏览器内核和过低的 PHP 版本\n\n\n主题设计理念更偏向简约、干净的阅读和分享，但也不过分的简陋，暂时不考虑加入过多与阅读体验关联不大的功能\n\n\n主题本身设计并无太多框架，需要使用者用自己的文字让样式更加饱满丰富，不然也就失去了本身的意义\n\n\n感谢你的使用！",
+            "github": "https://github.com/MoXiaoXi233/PureSuck-theme",
+            "homepage": "https://note.moxiify.cn/post/LoveWithPureSuck",
+            "download": "https://github.com/MoXiaoXi233/PureSuck-theme/releases/download/1.3.2/PureSuck1.3.2.zip",
+            "data": {
+                "适配 Typecho 版本": "1.2.x, 1.3.x",
+                "License": "MIT"
             }
         },
         {
