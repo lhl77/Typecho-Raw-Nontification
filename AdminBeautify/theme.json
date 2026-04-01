@@ -157,6 +157,28 @@
             }
         },
         {
+            "id": "seeing-words",
+            "name": "见字 (测试版)",
+            "author": "ESTO",
+            "version": "0.1.0",
+            "cover": "https://i.see.you/2026/04/01/1Vjt/a68a661a5a17342108f79ea719553d94.jpg",
+            "images": [
+                "https://i.see.you/2026/04/01/Ddh5/5ee8a576fcb7ac0708e94162be25e1bb.jpg",
+                "https://i.see.you/2026/04/01/Ak4p/68688054b2e4e6cde9295c9732cabcf3.jpg",
+                "https://i.see.you/2026/04/01/O1jt/054f3a99f6d4d5e89220097dbf110cc3.jpg",
+                "https://i.see.you/2026/04/01/V0rc/8e4227a38a228c96616c792e835469e5.jpg"
+            ],
+            "description": "(开源) 引用 Bootstrap，移除冗余代码，提高代码复用率。部分设计风格参考 Apple Inc.",
+            "github": "https://github.com/ott7/seeing-words",
+            "homepage": "https://forum.typecho.org/viewtopic.php?t=25266",
+            "download": "https://github.com/lhl77/Typecho-Plugin-AdminBeautifyStore/releases/download/themes/seeing-words_v0.1.0.260401.zip",
+            "data": {
+                "适配 Typecho 版本": "1.2.x",
+                "PHP": "未测试",
+                "备注": "主题正处于公共测试阶段，使用过程中可能会出现未经排查的问题，请在 Typecho 官方论坛主题页面（点击前往）反馈问题或提交功能建议。不建议投入生产环境使用。"
+            }
+        },
+        {
             "id": "Mirages",
             "name": "Mirages",
             "author": "Hran",
