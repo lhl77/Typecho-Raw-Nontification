@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-05-26T00:00:00+08:00",
+  "themes": [
+    {
+      "dir": "default",
+      "name": "默认欢迎页",
+      "description": "默认欢迎页。",
+      "version": "1.0.0",
+      "cover": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/covers/default.webp",
+      "zip_url": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/packages/default.zip",
+      "github_url": "https://github.com/lhl77/Typecho-Raw-Nontification/tree/main/TypechoBio/default",
+      "demo_url": "https://example.com/typechobio/default"
+    },
+    {
+      "dir": "zyyo",
+      "name": "Zyyo 主页",
+      "description": "个人主页，支持资料侧栏、链接卡片、时间线和可开关评论区。",
+      "version": "1.0.0",
+      "cover": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/covers/zyyo.webp",
+      "zip_url": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/packages/zyyo.zip",
+      "github_url": "https://github.com/lhl77/Typecho-Raw-Nontification/tree/main/TypechoBio/zyyo",
+      "demo_url": "https://example.com/typechobio/zyyo"
+    },
+    {
+      "dir": "imsyy",
+      "name": "Imsyy 主页",
+      "description": "由 imsyy/home 源码构建并通过运行时配置适配到 TypechoBio 的主题。",
+      "version": "1.0.0",
+      "cover": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/covers/imsyy.webp",
+      "zip_url": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/packages/imsyy.zip",
+      "github_url": "https://github.com/lhl77/Typecho-Raw-Nontification/tree/main/TypechoBio/imsyy",
+      "demo_url": "https://example.com/typechobio/imsyy"
+    },
+    {
+      "dir": "duckfolio",
+      "name": "Duckfolio 主页",
+      "description": "按 Duckfolio 源码数据模型与结构整合到 TypechoBio 的主题。",
+      "version": "1.0.0",
+      "cover": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/covers/duckfolio.webp",
+      "zip_url": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/packages/duckfolio.zip",
+      "github_url": "https://github.com/lhl77/Typecho-Raw-Nontification/tree/main/TypechoBio/duckfolio",
+      "demo_url": "https://example.com/typechobio/duckfolio"
+    },
+    {
+      "dir": "dmego",
+      "name": "Dmego 主页",
+      "description": "移植自 Dmego 主页，支持标题文案、导航链接、社交链接与弹窗图片配置。",
+      "version": "1.0.0",
+      "cover": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/covers/dmego.webp",
+      "zip_url": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/packages/dmego.zip",
+      "github_url": "https://github.com/lhl77/Typecho-Raw-Nontification/tree/main/TypechoBio/dmego",
+      "demo_url": "https://example.com/typechobio/dmego"
+    },
+    {
+      "dir": "iami",
+      "name": "IAMI 主页",
+      "description": "由 iami 静态 index 迁移到 TypechoBio 的适配版。",
+      "version": "1.0.0",
+      "cover": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/covers/iami.webp",
+      "zip_url": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/packages/iami.zip",
+      "github_url": "https://github.com/lhl77/Typecho-Raw-Nontification/tree/main/TypechoBio/iami",
+      "demo_url": "https://example.com/typechobio/iami"
+    },
+    {
+      "dir": "wexuo",
+      "name": "Wexuo 主页",
+      "description": "整合自 Wexuo 的 Vue 静态个人主页。",
+      "version": "1.0.0",
+      "cover": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/covers/wexuo.webp",
+      "zip_url": "https://raw.githubusercontent.com/lhl77/Typecho-Raw-Nontification/main/TypechoBio/packages/wexuo.zip",
+      "github_url": "https://github.com/lhl77/Typecho-Raw-Nontification/tree/main/TypechoBio/wexuo",
+      "demo_url": "https://example.com/typechobio/wexuo"
+    }
+  ]
+}
