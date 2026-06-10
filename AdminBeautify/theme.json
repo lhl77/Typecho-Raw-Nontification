@@ -277,6 +277,24 @@
             }
         },
         {
+            "id": "Matecho",
+            "name": "Matecho",
+            "author": "Zapic",
+            "version": "0.6.1",
+            "cover": "https://i.see.you/2026/06/10/V4ye/ed1d03d6303961d60a2d3176f8f3c9bc.jpg",
+            "images": [
+                "https://i.see.you/2026/06/10/C6fd/b3205e0965c9f908444fe602d9186f71.jpg"
+            ],
+            "description": "(开源) 一款现代的, 简单得简陋的, 基于Material Design 3的Typecho主题, Material Design typecho theme base on MDUI.",
+            "github": "https://github.com/KawaiiZapic/Matecho",
+            "homepage": "https://matecho-dev.zapic.moe/archives/the-new-typecho-theme",
+            "download": "https://github.com/KawaiiZapic/Matecho/releases/download/v0.6.1/Matecho-v0.6.1.zip",
+            "data": {
+                "适配 Typecho 版本": "未测试",
+                "License": "MIT"
+            }
+        },
+        {
             "id": "Mirages",
             "name": "Mirages",
             "author": "Hran",
